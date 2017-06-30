@@ -1,0 +1,5 @@
+#DRONEBIRD.tsv
+#Last update: 2017-06-30
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+浪江町2017	DRONEBIRDタイル	https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png	1	12	20
+狛江市2017	DRONEBIRDタイル	http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png	1	12	20
