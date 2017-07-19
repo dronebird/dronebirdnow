@@ -2,7 +2,7 @@
 #Last update: 2017-06-30
 #title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
 浪江町2017福島	DRONEBIRDタイル	https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png	1	12	20
-狛江市2017東京	DRONEBIRDタイル	http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png	1	12	20
+狛江市2017東京	DRONEBIRDタイル	https://dronebird.github.io/oam_tokyo20170531komae/xyztiles/{z}/{x}/{y}.png	1	12	20
 益城町2017熊本	DRONEBIRDタイル	https://dronebird.github.io/oam_kumamoto20170408mashiki/xyztiles/{z}/{x}/{y}.png	1	12	20
 大和市2016神奈川	DRONEBIRDタイル	https://github.com/dronebird/oam_yamatocity2016firstflight/raw/master/yamatocity20160906firstflight_epsg900913/{z}/{x}/{y}.png	1	12	20
 レイクタウン2016埼玉	DRONEBIRDタイル	https://github.com/dronebird/oam_laketown2016bosaifes/raw/gh-pages/tiles/{z}/{x}/{y}.png	1	12	20
