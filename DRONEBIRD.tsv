@@ -1,9 +1,12 @@
 #GSIMaps.tsv									
 #Last update: 2017-02-02									
 #title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+調布市2017東京	DRONEBIRDタイル	https://dronebird.github.io/oam_tokyo20170902chofu01/xyztiles/{z}/{x}/{y}.png	1	14	22				
 浪江町2017福島	DRONEBIRDタイル	https://dronebird.github.io/oam_fukushima20170602namie/xyztiles/{z}/{x}/{y}.png	1	12	20				
 狛江市2017東京	DRONEBIRDタイル	https://dronebird.github.io/oam_tokyo20170531komae/xyztiles/{z}/{x}/{y}.png	1	12	20				
 益城町2017熊本	DRONEBIRDタイル	https://dronebird.github.io/oam_kumamoto20170408mashiki/xyztiles/{z}/{x}/{y}.png	1	12	20				
 大和市2016神奈川	DRONEBIRDタイル	https://github.com/dronebird/oam_yamatocity2016firstflight/raw/master/yamatocity20160906firstflight_epsg900913/{z}/{x}/{y}.png	1	12	20				
 レイクタウン2016埼玉	DRONEBIRDタイル	https://github.com/dronebird/oam_laketown2016bosaifes/raw/gh-pages/tiles/{z}/{x}/{y}.png	1	12	20				
 国土地理院2016茨城	DRONEBIRDタイル	https://github.com/dronebird/oam_gsiheadquater20161021/raw/gh-pages/tiles/{z}/{x}/{y}.png	1	12	20				
+
+
