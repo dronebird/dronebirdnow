@@ -1,7 +1,7 @@
 # dronebirdnow
 DRONE BIRD now!! Our all flight logs
 
-* 
+* [dronebirdnow_latest.csv](https://github.com/dronebird/dronebirdnow/blob/master/dronebirdnow_latest.csv)
 
 ## Data maintenance
 https://docs.google.com/spreadsheets/d/1awbM5PJzLjW47IIipR_0dhFamhrRAmWvXQ4AIJTRAps/edit#gid=0
